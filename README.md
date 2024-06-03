@@ -4,7 +4,8 @@ I'm passionate about open source projects, cybersecurity, and artificial intelli
 
 ## 🌱 What I'm Learning
 I'm continuously expanding my skill set and currently focusing on:
-- JavaScript
+- Mobile Development for Android and iOS
+- JavaScript/TypeScript
 - Angular
 - React
 - Capacitor/Ionic
