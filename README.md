@@ -24,7 +24,7 @@ I'm open to collaborating on:
 
 ## 📫 How to Reach Me
 Feel free to reach out to me via:
-- [Open an Issue](https://github.com/Lixiviate/Lixiviate/issues)
+- ....................
 
 
 *Just like the 90s, this page is currently under construction. Stay tuned for updates!*
