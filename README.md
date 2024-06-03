@@ -1,4 +1,4 @@
-# Hi, I'm [@Lixiviate](https://github.com/Lixiviate) 👋
+# Hi, I'm [Lixiviate](https://github.com/Lixiviate) 👋
 
 I'm passionate about open source projects, cybersecurity, and artificial intelligence. I believe in the power of community and collaboration to drive advancement and make a positive impact. Currently, I'm delving into modern web development frameworks and tools to build robust and scalable applications.
 
