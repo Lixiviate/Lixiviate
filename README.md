@@ -3,7 +3,6 @@
 I'm passionate about open source projects, cybersecurity, and artificial intelligence. I believe in the power of community and collaboration to drive advancement and make a positive impact. Currently, I'm delving into modern web development frameworks and tools to build robust and scalable applications.
 
 ## 🌱 What I'm Learning
-I'm continuously expanding my skill set and currently focusing on:
 - Mobile Development for Android and iOS
 - JavaScript/TypeScript
 - Angular
@@ -12,7 +11,6 @@ I'm continuously expanding my skill set and currently focusing on:
 - Svelte
 
 ## 💞️ Looking to Collaborate On
-I'm eager to collaborate on:
 - Open source projects that can benefit the community
 - Cybersecurity initiatives to enhance digital safety
 - AI and machine learning projects
